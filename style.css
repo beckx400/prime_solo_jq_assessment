@@ -1,0 +1,14 @@
+main {
+	text-align: center;
+}
+
+.green {
+	background: green;
+}
+.removeColor{
+	display: none;
+}
+button{
+	padding: 5px;
+	margin: 0 5px 5px 0;
+}
